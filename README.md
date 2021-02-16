@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fang
 - 👀 I’m interested in Software Development 
 - 🏥 I’m studying Computer Engineering at KMITL
-- 
 
 <!---
 fangy43/fangy43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
